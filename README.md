@@ -1,4 +1,4 @@
-# Welcome to Form Hidden Search
+# Welcome to Hidden Search
 
 ## Technologies Used
 - HTML, CSS & JAVASCRIPT
